@@ -1,4 +1,4 @@
-# CYBX Cybersecurity Website Clone
+# CVS Cybersecurity Website Clone
 
 A modern, responsive cybersecurity website clone built with the MERN stack (MongoDB, Express.js, React, Node.js) and Tailwind CSS. This project replicates the design and functionality of the CYBX cybersecurity website with enhanced features and modern UI/UX.
 
